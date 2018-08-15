@@ -5,9 +5,9 @@ window.option = {
   bannerTitle:'hello world',
   footer:'2018 cookie\'s Blog',
   owner:'cookieHe',
-  repo: 'blog',
+  repo: 'cookiehe.github.io',
   oauth: {
-    client_id: '58ed27b34ea65650dd61',
-    client_secret: '9bf4cc15ba562d627e9ed939e31ec4ef5680010a',
+    client_id: '4ade7d51da9336f4dec8',
+    client_secret: '9c2fa7539d193420f31f1052b6ef1365a9e76076',
   },
 }
